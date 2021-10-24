@@ -14,3 +14,7 @@ if __name__ == '__main__':
     print_hi('Bernd')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+import tensorflow as tf
+print("TensorFlow version:", tf.__version__)
+
